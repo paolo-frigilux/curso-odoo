@@ -15,6 +15,14 @@
 - Preview del Instagram Shop.
     - Experiencia de usuario completa.
     - Pasarela de pago?
+- 
+
+---
+## Post-venta
+- Seguimiento del cliente
+    - Quién sigue el proceso?
+    - Cómo sería este proceso?
+    - Cómo definimos la post-venta en este e-commerce?
 
 ---
 ## Anotaciones
