@@ -35,7 +35,7 @@
 
 > Introduction: Begin with an introduction that outlines the purpose of the presentation and provides an overview of the services you will be proposing.
 
-### *Juntos se trabaja mejor* | ***Vamos a revolucionar PUMA***
+### *Juntos se trabaja mejor* | **Vamos a revolucionar PUMA**
 
 Nuestra propuesta incluye una revisión completa del estado del arte para poder establecer estrategias de posicionamiento en los medios digitales que incluyen el desarrollo de una página web además de estratégias en las redes sociales y creación de contenido.
 
@@ -43,7 +43,7 @@ Nuestra propuesta incluye una revisión completa del estado del arte para poder 
 ## Investigación del mercado
 > Market research: Next, present your market research findings, including information about the client's target audience, competitors, and industry trends. Use charts, graphs, and other visual aids to help illustrate your points.
 
-### *El mercado* | ***Entendamos la tendencia***
+### *El mercado* | **Entendamos la tendencia**
 
 El mercado de los equipos deportivos sigue creciendo a nivel mundial y Venezuela no es la excepción. El talento deportivo sigue creciendo y la demanda persiste.
 
@@ -63,7 +63,7 @@ El mercado de los equipos deportivos sigue creciendo a nivel mundial y Venezuela
 ## Proposed Services
 > Proposed services: Outline the specific web services you are proposing, such as website design, development, and maintenance. Be sure to explain the benefits of each service and how they will help the client achieve their goals.
  
- *La primera impresión cuenta* | ***Vamos con tu web***
+ *La primera impresión cuenta* | **Vamos con tu web**
 
 Entendemos la importancia de restaurar la presencia digital de su marca, y estamos comprometidos a ayudarlo a alcanzar sus objetivos. Nuestros servicios propuestos incluyen diseño y desarrollo de sitios web, estrategia de redes sociales, desarrollo de comercio electrónico, optimización de motores de búsqueda y seguimiento de comisiones de ventas. Con nuestra ayuda, puede establecer una presencia en línea sólida y memorable que resuene con su público objetivo.
 
@@ -75,7 +75,7 @@ Entendemos la importancia de restaurar la presencia digital de su marca, y estam
 ## Timeline
 > Timeline: Present a timeline for the project, including key milestones and deadlines. This will help the client understand the scope of the project and what to expect in terms of timing.
 
-### *Desde el comienzo estamos juntos* | ***Tenemos metas y tiempos***
+### *Desde el comienzo estamos juntos* | **Tenemos metas y tiempos**
 
 - Planificación e investigación: Se define el alcance del proyecto y se identifica el público objetivo, investigaremos a los competidores y determinará el presupuesto y el cronograma.
 
@@ -89,11 +89,13 @@ Entendemos la importancia de restaurar la presencia digital de su marca, y estam
 
 - Pruebas y lanzamiento: El hito final es probar el sitio web y la integración de redes sociales para su funcionalidad y experiencia de usuario previo al lanzamiento del proyecto. Esto incluye monitorear el sitio web y los perfiles de redes sociales para su rendimiento, hacer los ajustes necesarios y continuar promoviendo la marca a través de las redes sociales y otros canales de marketing.
 
-
-
-
-
 ---
 > Case studies: If possible, include case studies or examples of similar projects you have completed in the past. This will help build credibility and demonstrate your expertise.
 ---
+## Call to Action
+
 > Call to action: Finally, end with a call to action, encouraging the client to move forward with your proposed services. Provide contact information and be available to answer any questions they may have.
+
+### *Empecemos* | **Vamos a crear tu presencia**
+
+Tenemos la oportunidad de tomar medidas y abrazar el futuro digital. Te instamos a que comencemos este viaje. Nuestro equipo está comprometido a ayudarte a alcanzar tus objetivos y construir una presencia sólida y memorable.
