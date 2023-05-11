@@ -35,7 +35,10 @@
 
 > Introduction: Begin with an introduction that outlines the purpose of the presentation and provides an overview of the services you will be proposing.
 
-### Juntos se trabaja mejor - 
+### *Juntos se trabaja mejor* - ***Vamos a revolucionar PUMA***
+
+Nuestra propuesta incluye una revisión completa del estado del arte para poder establecer estrategias de posicionamiento en los medios digitales que incluyen el desarrollo de una página web además de estratégias en las redes sociales y creación de contenido.
+
 ---
 > Market research: Next, present your market research findings, including information about the client's target audience, competitors, and industry trends. Use charts, graphs, and other visual aids to help illustrate your points.
 ---
