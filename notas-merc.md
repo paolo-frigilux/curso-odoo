@@ -65,11 +65,14 @@ El mercado de los equipos deportivos sigue creciendo a nivel mundial y Venezuela
  
  *La primera impresión cuenta* | ***Vamos con tu web***
 
-
+Entendemos la importancia de restaurar la presencia digital de su marca, y estamos comprometidos a ayudarlo a alcanzar sus objetivos. Nuestros servicios propuestos incluyen diseño y desarrollo de sitios web, estrategia de redes sociales, desarrollo de comercio electrónico, optimización de motores de búsqueda y seguimiento de comisiones de ventas. Con nuestra ayuda, puede establecer una presencia en línea sólida y memorable que resuene con su público objetivo.
 
 ---
+## Budget Breakdown
 > Budget breakdown: Provide a detailed breakdown of the proposed budget, including costs for each service and any additional expenses. Use tables or charts to make the information easy to understand.
+
 ---
+## Timeline
 > Timeline: Present a timeline for the project, including key milestones and deadlines. This will help the client understand the scope of the project and what to expect in terms of timing.
 ---
 > Case studies: If possible, include case studies or examples of similar projects you have completed in the past. This will help build credibility and demonstrate your expertise.
